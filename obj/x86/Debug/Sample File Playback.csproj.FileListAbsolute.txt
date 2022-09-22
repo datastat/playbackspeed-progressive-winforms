@@ -1,0 +1,27 @@
+C:\Users\Zan\Documents\GitHub\Sample File Playback\bin\x86\Debug\Sample File Playback.exe.config
+C:\Users\Zan\Documents\GitHub\Sample File Playback\bin\x86\Debug\Sample File Playback.exe
+C:\Users\Zan\Documents\GitHub\Sample File Playback\bin\x86\Debug\Sample File Playback.pdb
+C:\Users\Zan\Documents\GitHub\Sample File Playback\bin\x86\Debug\CGEditor_WinForms.exe
+C:\Users\Zan\Documents\GitHub\Sample File Playback\bin\x86\Debug\Interop.MFORMATSLib.dll
+C:\Users\Zan\Documents\GitHub\Sample File Playback\bin\x86\Debug\Interop.MLCHARGENLib.dll
+C:\Users\Zan\Documents\GitHub\Sample File Playback\bin\x86\Debug\CGEditor_WinForms.pdb
+C:\Users\Zan\Documents\GitHub\Sample File Playback\bin\x86\Debug\CGEditor_WinForms.exe.config
+C:\Users\Zan\Documents\GitHub\Sample File Playback\bin\x86\Debug\Interop.MCHROMAKEYLib.dll
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\Sample File Playback.csproj.AssemblyReference.cache
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\Sample File Playback.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\Interop.MCHROMAKEYLib.dll
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\Interop.MFORMATSLib.dll
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\Interop.MLCHARGENLib.dll
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\Sample File Playback.csproj.ResolveComReference.cache
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\SampleFilePlayback.ListViewEx.resources
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\SampleFilePlayback.MainForm.resources
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\SampleFilePlayback.MAudioChannel.resources
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\SampleFilePlayback.MAudioMeter.resources
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\SampleFilePlayback.MFAttributesListPresets.resources
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\SampleFilePlayback.OverlayHTMLWindow.resources
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\SampleFilePlayback.Properties.Resources.resources
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\Sample File Playback.csproj.GenerateResource.cache
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\Sample File Playback.csproj.CoreCompileInputs.cache
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\Sample File Playback.csproj.CopyComplete
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\Sample File Playback.exe
+C:\Users\Zan\Documents\GitHub\Sample File Playback\obj\x86\Debug\Sample File Playback.pdb
